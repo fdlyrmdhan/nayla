@@ -37,8 +37,8 @@ global.author = 'Zevano'
 
 global.multiplier = 36 // ini butuh berapa xp buat levelup 
 
-global.botwm = ['© nayla'] // watermark bot
-global.oname = ['Zevano'] // nama owner nya
+global.botwm = ['© Dhanyy'] // watermark bot
+global.oname = ['Dhanyy'] // nama owner nya
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
